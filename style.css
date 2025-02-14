@@ -1,0 +1,23 @@
+@media screen and (max-width: 768px) {
+
+    * p{
+        font-size: 16px; 
+        max-width: 310px;
+    }
+
+    *{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+     body {
+        background-color: #f3f3f3;
+     }
+
+     img{
+        width: 300px;
+     }
+    
+}
